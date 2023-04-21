@@ -1,0 +1,231 @@
+{
+  "seg": [
+        {
+            "id": 0,
+            "start": 0,
+            "stop": 1,
+            "len": 1,
+            "grp": 1,
+            "spc": 0,
+            "of": 0,
+            "on": true,
+            "frz": false,
+            "bri": 255,
+            "cct": 127,
+            "col": [
+                [
+                    0,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            "fx": 0,
+            "sx": 19,
+            "ix": 166,
+            "pal": 0,
+            "sel": false,
+            "rev": false,
+            "mi": false
+        },
+        {
+            "id": 1,
+            "start": 5,
+            "stop": 11,
+            "len": 6,
+            "grp": 1,
+            "spc": 0,
+            "of": 0,
+            "on": true,
+            "frz": false,
+            "bri": 255,
+            "cct": 127,
+            "n": "left",
+            "col": [
+                [
+                    255,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            "fx": 0,
+            "sx": 128,
+            "ix": 128,
+            "pal": 0,
+            "sel": true,
+            "rev": false,
+            "mi": false
+        },
+        {
+            "id": 2,
+            "start": 11,
+            "stop": 21,
+            "len": 10,
+            "grp": 1,
+            "spc": 0,
+            "of": 0,
+            "on": true,
+            "frz": false,
+            "bri": 255,
+            "cct": 127,
+            "n": "top",
+            "col": [
+                [
+                    255,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            "fx": 0,
+            "sx": 128,
+            "ix": 128,
+            "pal": 0,
+            "sel": true,
+            "rev": true,
+            "mi": false
+        },
+        {
+            "id": 3,
+            "start": 21,
+            "stop": 27,
+            "len": 6,
+            "grp": 1,
+            "spc": 0,
+            "of": 0,
+            "on": true,
+            "frz": false,
+            "bri": 255,
+            "cct": 127,
+            "n": "right",
+            "col": [
+                [
+                    255,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            "fx": 0,
+            "sx": 128,
+            "ix": 128,
+            "pal": 0,
+            "sel": true,
+            "rev": false,
+            "mi": false
+        },
+        {
+            "id": 4,
+            "start": 27,
+            "stop": 32,
+            "len": 5,
+            "grp": 2,
+            "spc": 0,
+            "of": 0,
+            "on": true,
+            "frz": false,
+            "bri": 255,
+            "cct": 127,
+            "n": "botton R",
+            "col": [
+                [
+                    255,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            "fx": 0,
+            "sx": 128,
+            "ix": 128,
+            "pal": 0,
+            "sel": true,
+            "rev": true,
+            "mi": false
+        },
+        {
+            "id": 5,
+            "start": 0,
+            "stop": 5,
+            "len": 5,
+            "grp": 2,
+            "spc": 0,
+            "of": 0,
+            "on": true,
+            "frz": false,
+            "bri": 255,
+            "cct": 127,
+            "n": "botton L",
+            "col": [
+                [
+                    255,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    0,
+                    0
+                ]
+            ],
+            "fx": 0,
+            "sx": 128,
+            "ix": 128,
+            "pal": 0,
+            "sel": true,
+            "rev": false,
+            "mi": false
+        }
+  ]
+}
